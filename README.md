@@ -14,13 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p style="color:#323232;">
                                             👀 About Me
                                      📚 ComputerSoftwareEngineering
                                            💻 back-end Engineer
                                  👥bluecore internship (2023.06-2023.08)
+</p>
 ---
+🧱 Tech Stack
+  ### Language & plateforms
 // 자바스크립트 배지 코드 예시
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 // Mysql 배지 코드 예시
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  ### tools
+  
