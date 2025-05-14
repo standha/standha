@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 🎓 ComputerSoftwareEngineering<br>
-💻 Back-end Engineer<br>
+👩‍💻 Back-end Engineer<br>
 👥 Bluecore Internship (2023.06 – 2023.08)
 <!--📚 Shinhan DS 5기 (2025.04.01-2025.10.01)-->
 </div>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ---
 <br>
-<h3 align = "center">🧱 Tech Stack</h3>
+<h3 align = "center">💻 Tech Stack 💻</h3>
 <div align="center">
 Language & Plateforms
   <br><br>
