@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 🎓 ComputerSoftwareEngineering<br>
-💻 back-end Engineer<br>
-👥 bluecore internship (2023.06–2023.08)
+💻 Back-end Engineer<br>
+👥 Bluecore Internship (2023.06 – 2023.08)
 <!--📚 Shinhan DS 5기 (2025.04.01-2025.10.01)-->
 </div>
 <br>
@@ -40,7 +40,7 @@ Language & Plateforms
 <!--자바스크립트-->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <!--html5-->
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>스프링부트
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <!--css3-->
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <br>
@@ -64,9 +64,6 @@ Tools
 <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
     <!--이클립스-->
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
-    <!--vscode->
-    <img src="https://img.shields.io/badge/VScode-42133169?style=flat-square&logo=VScode&logoColor=white"/>
-
     <!--깃-->
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=gitt&logoColor=white"/>
     <!--apachetomcat-->
