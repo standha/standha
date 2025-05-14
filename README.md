@@ -16,13 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<!-- <a href="https://velog.io/@standha/posts" target="_blank">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" style="transform: scale(1.5); transform-origin: left;"/>
-</a> -->
-
-  <a href="https://velog.io/@standha/posts" target="_blank">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/assets/velog-badge.png?raw=true" width="160"/>
+<a href="https://velog.io/@standha/posts" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white; transform-origin: left;"/>
 </a>
+
 </div>
 <br><br>
 
