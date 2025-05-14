@@ -1,7 +1,6 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=transparent&color=430282&height=300&section=header&text=SeoHa%20GitHub&desc=Good%20to%20see%20you%20%F0%9F%A4%97&fontSize=60&descSize=20
+![header](https://capsule-render.vercel.app/api?type=transparent&color=#430282&height=300&section=header&text=SeoHa%20GitHub&desc=Good%20to%20see%20you%20%F0%9F%A4%97&fontSize=60&descSize=20)
 
-)
 
 <!--
 **standha/standha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
