@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <h3 align = "center">🧱 Tech Stack</h3>
 <div align="center">
-Language & plateforms
+Language & Plateforms
   <br>
   <br>
 <!--자바-->
@@ -57,7 +57,7 @@ Language & plateforms
 </div>
 <br>
   <div align="center">
-tools
+Tools
     <br>
     <br>
     <!--인텔리제이-->
@@ -65,7 +65,8 @@ tools
     <!--이클립스-->
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
     <!--vscode->
-<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VScode-42133169?style=flat-square&logo=VScode&logoColor=white"/>
+
     <!--깃-->
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=gitt&logoColor=white"/>
     <!--apachetomcat-->
