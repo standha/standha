@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+<a href="https://velog.io/@standha/posts" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+</a>
+</div>
 
+<br><br>
 <div align="center">
 🎓 ComputerSoftwareEngineering<br>
 💻 Back-end Engineer<br>
@@ -28,8 +34,8 @@ Here are some ideas to get you started:
 <h3 align = "center">🧱 Tech Stack</h3>
 <div align="center">
 Language & Plateforms
-  <br>
-  <br>
+  <br><br>
+  
 <!--자바-->
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>
 <!--c-->
@@ -39,35 +45,42 @@ Language & Plateforms
   <br>
 <!--자바스크립트-->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<!--jsp-->
+<img src="https://img.shields.io/badge/JSP-FFA500?style=flat-square&logo=java&logoColor=white"/>
 <!--html5-->
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <!--css3-->
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<br>
+  <br>
 <!--스프링-->
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-  <!--스프링부트-->
+<!--스프링부트-->
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-thebadge&logo=springboot&logoColor=white"/>
-  <!--mysql-->
+<!--mysql-->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <!--오라클-->
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">&nbsp
-  <!--velog-->
+<!--velog-->
 <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </div>
 <br>
-  <div align="center">
-Tools
-    <br>
-    <br>
-    <!--인텔리제이-->
+
+<div align="center">
+  Tools
+  <br> <br>
+   
+<!--인텔리제이-->
 <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-    <!--이클립스-->
+<!--이클립스-->
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
-    <!--깃-->
+<!--vscode-->
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<!--깃-->
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=gitt&logoColor=white"/>
-    <!--apachetomcat-->
+<!--apachetomcat-->
 <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>
-   </div>
+</div>
    <br>
+
+   
   
