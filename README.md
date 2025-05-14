@@ -16,23 +16,38 @@ Here are some ideas to get you started:
 -->
 
 
-<p style="color:#B0B0B0; text-align:center;">
+<div align="center">
 📚 ComputerSoftwareEngineering<br>
 💻 back-end Engineer<br>
 👥 bluecore internship (2023.06–2023.08)
-</p>
+</div>
 
 
 ### 🧱 Tech Stack
-<p style="color:#B0B0B0; text-align:center;">
+<div align="center">
 Language & plateforms
-</p>
+</div>
+<!--자바-->
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>
+<!--c-->
+<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<!--파이썬-->
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <!--자바스크립트-->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<!--html5-->
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<!--css3-->
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<!--오라클-->
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">&nbsp
 <!--mysql-->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+
 <!--스프링-->
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 
-  ### tools
+  <div align="center">
+tools
+</div>
   
