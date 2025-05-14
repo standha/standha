@@ -84,13 +84,13 @@ Language & Plateforms
 <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>
 </div>
    <br><br>
-   
+<!--   
    <div align="center">
 📊 사용 언어 비율
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=standha&layout=compact)
-
+-->
 
    <br>
 
