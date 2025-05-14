@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <div align="center">
 Language & plateforms
   <br>
+  <br>
 <!--자바-->
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>
 <!--c-->
@@ -51,7 +52,7 @@ Language & plateforms
 <!--스프링-->
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <!--스프링부트-->
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-thebadge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-thebadge&logo=springboot&logoColor=white"/>
   <!--velog-->
 <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </div>
@@ -59,13 +60,13 @@ Language & plateforms
   <div align="center">
 tools
     <br>
+    <br>
     <!--인텔리제이-->
 <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
     <!--이클립스-->
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
     <!--vscode->
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
-    
     <!--깃-->
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=gitt&logoColor=white"/>
     <!--apachetomcat-->
