@@ -20,8 +20,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
 </div>
-
-<br><br>
+<br>
+---
+<br>
 <div align="center">
 🎓 ComputerSoftwareEngineering<br>
 💻 Back-end Engineer<br>
@@ -29,8 +30,9 @@ Here are some ideas to get you started:
 <!--📚 Shinhan DS 5기 (2025.04.01-2025.10.01)-->
 </div>
 <br>
-<br>
 
+---
+<br>
 <h3 align = "center">🧱 Tech Stack</h3>
 <div align="center">
 Language & Plateforms
