@@ -88,8 +88,9 @@ Language & Plateforms
    <div align="center">
 📊 사용 언어 비율
 <br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=standha&layout=compact)
-</div>
+
 
    <br>
 
