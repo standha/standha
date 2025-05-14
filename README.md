@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <a href="https://velog.io/@standha/posts" target="_blank">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&width=150&logo=velog&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&width=300&logo=velog&logoColor=white"/> 
 </a>
 
 </div>
