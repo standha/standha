@@ -84,7 +84,8 @@ Language & Plateforms
 <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>
 </div>
    <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=standha&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
    <br>
 
 
