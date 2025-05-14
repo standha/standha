@@ -27,10 +27,12 @@ Here are some ideas to get you started:
 <p style="color:#B0B0B0; text-align:center;">
 Language & plateforms
 </p>
-// 자바스크립트 배지 코드 예시
+<!--자바스크립트-->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-
-// Mysql 배지 코드 예시
+<!--mysql-->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<!--스프링-->
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+
   ### tools
   
