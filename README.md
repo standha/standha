@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat&width=300&height=300&logo=velog&logoColor=white"/> 
 </a>
 <a href="###" target="_blank">
-  <img src="https://img.shields.io/badge/portfolio-1925583?style=flat&width=300&height=300&logo=velog&logoColor=white"/> 
+<img src="https://img.shields.io/badge/portfolio-1925583?style=flat&logo=portfolio&logoColor=white"/>
 </a>
 
 </div>
