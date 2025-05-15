@@ -37,7 +37,57 @@ Here are some ideas to get you started:
 ---
 <br>
 <h3 align = "center">💻 Tech Stack 💻</h3>
+
 <div align="center">
+  <h3>💻 Language</h3>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+</div>
+<br>
+
+<div align="center">
+  <h3>🌐 Web Frontend</h3>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</div>
+<br>
+
+<div align="center">
+  <h3>🔧 Backend & Framework</h3>
+  <img src="https://img.shields.io/badge/JSP-FFA500?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+</div>
+<br>
+
+<div align="center">
+  <h3>🗄️ Database</h3>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+</div>
+<br>
+
+<div align="center">
+  <h3>🛠 Tools & IDE</h3>
+  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
+</div>
+<br>
+
+<div align="center">
+  <h3>📒 Blog</h3>
+  <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+</div>
+
+
+<!-- <div align="center">
 Language & Plateforms
   <br><br>
   
@@ -89,7 +139,7 @@ Language & Plateforms
 <!--apachetomcat-->
 <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>
 </div>
-   <br><br>
+   <br><br> -->
 <!--   
    <div align="center">
 📊 사용 언어 비율
