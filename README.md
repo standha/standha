@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 <a href="https://velog.io/@standha/posts" target="_blank">
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat&width=300&height=300&logo=velog&logoColor=white"/> 
 </a>
+<a href="###" target="_blank">
+  <img src="https://img.shields.io/badge/portfolio-1925583?style=flat&width=300&height=300&logo=velog&logoColor=white"/> 
+</a>
 
 </div>
 <br><br>
@@ -60,6 +63,8 @@ Language & Plateforms
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-thebadge&logo=springboot&logoColor=white"/>
 <!--mysql-->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<!--마리아-->
+<img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 <!--오라클-->
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">&nbsp
 <!--velog-->
