@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <a href="https://velog.io/@standha/posts" target="_blank">
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat&width=300&height=300&logo=velog&logoColor=white"/> 
 </a>
-<a href="http://kimseoha-portfolio.duckdns.org" target="_blank">
-<img src="https://img.shields.io/badge/portfolio-1925583?style=flat&logo=portfolio&logoColor=white"/>
+<!-- <a href="http://kimseoha-portfolio.duckdns.org" target="_blank">
+<img src="https://img.shields.io/badge/portfolio-1925583?style=flat&logo=portfolio&logoColor=white"/> -->
 </a>
 
 </div>
