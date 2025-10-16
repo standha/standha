@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=f3f39e&height=300&section=header&text=SeoHa%20GitHub&fontSize=60&descSize=20&fontColor=042904)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f3f39e&height=300&section=header&text=Kim%0A%20%20%20%20SeoHa%20GitHub&fontSize=60&fontColor=042904)
 
 <!--
 **standha/standha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <div align="center">
 🎓 ComputerSoftwareEngineering<br>
 👩‍💻 Back-end Engineer<br>
-👥 Bluecore Internship (2023.06 – 2023.08)
-<!--📚 Shinhan DS 5기 (2025.04.01-2025.10.01)-->
+👥 Bluecore Internship (2023.06 – 2023.08)<br>
+📚 Shinhan DS 5기 (2025.04.01-2025.10.01)
 </div>
 <br>
 
