@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 🎓 ComputerSoftwareEngineering<br>
 👩‍💻 Back-end Engineer<br>
 👥 Bluecore Internship (2023.06 – 2023.08)<br>
-📚 Shinhan DS 5기 (2025.04.01-2025.10.01)
+📚 Shinhan DS 5기 (2025.04.01-2025.10.01) - 🏆팀부분 최우수상
 </div>
 <br>
 
