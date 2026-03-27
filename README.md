@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 👩‍💻 Back-end Engineer<br>
 👥 Bluecore Internship (2023.06 – 2023.08)<br>
 📚 Shinhan DS 5기 (2025.04.01-2025.10.01) - 🏆팀부분 최우수상
+
+자격증 취득
+emoji 🪪 | 신분증 | apple | 60 x 60정보처리기사 (2023.11)
+emoji 🪪 | 신분증 | apple | 60 x 60SQLD (2024.06)
+emoji 🪪 | 신분증 | apple | 60 x 60ADSP (2025.06)
 </div>
 <br>
 
